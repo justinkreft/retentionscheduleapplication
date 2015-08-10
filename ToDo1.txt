@@ -1,0 +1,19 @@
+Problems:
+
+Content to Labels
+UPDATE DATABASE NEWE State Changes from Website
+
+Fix querystrings for new connectionstrings
+Debug Live Site
+
+
+Note Color Scopes:
+All Headers - #0A152B
+Header Font - "White" - #ffffff
+All Text - "Black" - #333333
+All Warning Text - "Red" - #ff0000
+All Partial - "Gainsboro" - #dcdcdc
+Schedule - 152D5C
+Standard - 2751A6
+Series - 3B7DDB
+Policy - 7CBEF5

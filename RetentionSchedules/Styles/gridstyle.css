@@ -1,0 +1,60 @@
+﻿.DisplayNone
+{
+    display: none
+}
+
+.Display
+{
+
+}
+
+.Text
+{
+font-family:"Century Gothic";
+font-size:small
+}
+.HeadText1
+{
+font-family:"Cambria";
+font-size:larger;
+}
+.HeadText2
+{
+font-family:"Cambria";
+font-size:medium;
+}
+.Grid
+{
+    border:1px solid #ffffff;
+}
+
+.Header
+{
+    background-color: #0A152B;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.Schedule
+{
+    background-color: #152D5C;
+    color: #ffffff;
+}
+
+.Standard
+{
+    background-color: #2751A6;
+    color: #ffffff;
+}
+
+.Series
+{
+    background-color: #3B7DDB;
+    color: #ffffff;
+}
+
+.Policy
+{
+    background-color: #659FCF;
+    color: #ffffff;
+}
